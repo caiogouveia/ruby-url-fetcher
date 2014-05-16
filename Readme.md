@@ -7,8 +7,5 @@ Nokogiri, from **Aaron Patterson** - http://nokogiri.org/
 
 ###Usage
 <pre>
-$ ./fetch http://awesomewebsite.com outputFile.txt
+$ ./fetcher http://awesomewebsite.com outputFile.txt
 </pre>
-
-
-###updates ...
